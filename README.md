@@ -1,0 +1,1 @@
+ A maze solver and having to navigate from start to finish <img width="954" height="846" alt="Screenshot 2025-08-15 at 8 31 08 PM" src="https://github.com/user-attachments/assets/5afe8872-19f3-4b38-8eec-33f70cd75510" />
